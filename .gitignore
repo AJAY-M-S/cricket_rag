@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.index
+*.txt
+*.zip
+*.csv
+faiss_store/
+*.safetensors
+.cache/
